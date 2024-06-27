@@ -1,12 +1,6 @@
-![Sindo](/images/sindo.jpg)
-
-# Sindo's dotfiles
+# Razvan's dotfiles
 
 These are the dotfiles that I am currently using for my day to day work. I'll be constantly updating this repository as I find new ways to improve my workflow. These are tools that work for me, but I hope you can find something useful here as well.
-
-### Want to learn Web Development?
-
-Check out my website for **free** resources and mentoring: [SinDev](https://sindo.dev)
 
 ## Contents
 
@@ -22,7 +16,3 @@ Check out my website for **free** resources and mentoring: [SinDev](https://sind
 - [Catppuccin](https://github.com/catppuccin/nvim) - The colorscheme I use for NeoVim and Tmux
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - For live grep
 - [lazygit](https://github.com/jesseduffield/lazygit) - Easy Git GUI inside NeoVim
-
-## Contact
-
-Feel free to reach out to me at sindoonyt@gmail.com, or by going to [SinDev](https://sindo.dev).
